@@ -1,2 +1,2 @@
-# lab-9
-Customizing a Bootstrap Template
+# lab-10
+Customizing a Bootstrap Template: Content Panels
