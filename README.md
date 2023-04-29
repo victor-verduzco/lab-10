@@ -1,2 +1,2 @@
-# lab-10
-Customizing a Bootstrap Template: Content Panels
+# Lab_10
+Lab #10: Content Panels with Bootstrap
